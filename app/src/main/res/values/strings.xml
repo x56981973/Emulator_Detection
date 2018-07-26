@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Detection</string>
+    <string name="start_place">起始位置：</string>
+    <string name="end_place">结束位置：</string>
+    <string name="moment_place">实时位置</string>
+    <string name="moment_pressure">屏幕压力：</string>
+    <string name="gyroscope">陀螺仪参数：</string>
+    <string name="accelerator">加速器参数：</string>
+    <string name="light">光线强度：</string>
+    <string name="orientation">方向：</string>
+</resources>
